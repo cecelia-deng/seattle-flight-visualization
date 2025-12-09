@@ -2,7 +2,9 @@
 
 Interactive scrollytelling visualization exploring air travel patterns to Seattle-Tacoma International Airport.
 
-**Created by:** [Cecelia Deng](https://www.linkedin.com/in/qdengcecelia/), [Suk Jin Chung](https://www.linkedin.com/in/suk-jin003/), [Yongxi Chen](https://www.linkedin.com/in/yongxi-chen-0267b42b7/)
+**🔗 Live Demo:** [https://cecelia-deng.github.io/seattle-flight-visualization/](https://cecelia-deng.github.io/seattle-flight-visualization/)
+
+**Created by:** [Suk Jin Chung](https://www.linkedin.com/in/suk-jin003/), [Yongxi Chen](https://www.linkedin.com/in/yongxi-chen-0267b42b7/), [Cecelia Deng](https://www.linkedin.com/in/qdengcecelia/)
 
 ## Overview
 
