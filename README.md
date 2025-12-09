@@ -2,7 +2,7 @@
 
 Interactive scrollytelling visualization exploring air travel patterns to Seattle-Tacoma International Airport.
 
-**Created by:** [Suk Jin Chung](https://www.linkedin.com/in/suk-jin003/), [Yongxi Chen](https://www.linkedin.com/in/yongxi-chen-0267b42b7/), [Cecelia Deng](https://www.linkedin.com/in/qdengcecelia/)
+**Created by:** [Cecelia Deng](https://www.linkedin.com/in/qdengcecelia/), [Suk Jin Chung](https://www.linkedin.com/in/suk-jin003/), [Yongxi Chen](https://www.linkedin.com/in/yongxi-chen-0267b42b7/)
 
 ## Overview
 
